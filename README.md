@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vanshika.vercel.app/](https://portfolio-vanshika.vercel.app/)
 
-- 📝 I regularly write articles on [goss.hashnode.dev](goss.hashnode.dev)
+- 📝 Will be writing blogs on [goss.hashnode.dev](goss.hashnode.dev)
 
-- 💬 Ask me about **React, Javascript, Python, Java**
+- 💬 Ask me about **React, Javascript, Java, Python**
 
 - 📫 How to reach me **vanshikaasinha08@gmail.com**
 
